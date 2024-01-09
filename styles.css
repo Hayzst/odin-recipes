@@ -1,0 +1,27 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+}
+h1{
+    font-weight: 800;
+    font-size: 22px;
+    color: darkgoldenrod;
+}
+.ne{
+    color: purple;
+    font-weight: bold;
+}
+.text, .lists{
+    font-family: 'Times New Roman', Times, serif;
+    color: gray;
+}
+.lists{
+    color: gray;
+}
+.text{
+    font-size: 20px;
+}
+img{
+    height: 500;
+    width: auto;
+}
