@@ -2,6 +2,7 @@ body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: bisque;
 }
+
 h1{
     font-weight: 800;
     font-size: 22px;
@@ -24,4 +25,33 @@ h1{
 img{
     height: 500;
     width: auto;
+    display: block;
+    /* margin: 0 auto; */
+    /* margin-top: 20px;
+    margin-left: 20px; */
+    margin: auto;
+    /* margin: 10px; */
+    
+    /* border: 30px solid black; */
+    border: 10px solid darkgoldenrod;
+}
+#title{
+    font-size: 60px;
+    text-align: center;
+    /* display: block; */
+    margin-bottom: 10px;
+    margin-top: 20px;
+    color: darkgoldenrod;
+    /* padding-left: 15px darkgoldenrod; */
+    /* padding-right: 15px darkgoldenrod; */
+}
+.img_container{
+    height: 520px;
+    width: 770px;
+    /* background-color: ; */
+    /* border: dotted black; */
+    border: dotted darkgoldenrod;
+    margin: 0 auto;
+    margin-top: -20px;
+    padding: 15px 20px;
 }
